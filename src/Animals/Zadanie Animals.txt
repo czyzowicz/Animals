@@ -1,0 +1,12 @@
+Zadanie Animals:
+
+Stwórz hierarchiê klas:
+abstract class Animal z metod¹ void move()
+class Dog : Animal z konstruktorem przyjmuj¹cym imiê
+class Cat : Animal z konstruktorem przyjmuj¹cym imiê
+
+Dodaj 3 koty i 3 psy
+
+Stwórz kolekcjê z metod¹ addAnimal, removeAnimal i moveAll(), 
+która wywo³a metodê move() na wszystkich elementach w œrodku
+
